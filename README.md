@@ -10,6 +10,7 @@ Models Used:
 Logistic Regression, Random Forests, CATBoost
 
 Findings:
+
 Model      | Logistic Regression | Random Forests | CATBoost |
 
 Test AUC   |       .9206         |      .95413    |   .9575  |
