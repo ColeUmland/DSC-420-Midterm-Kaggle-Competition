@@ -9,9 +9,11 @@ Practice the workflow of a Data Scientist from exploring data to building, evalu
 Models Used:
 Logistic Regression, Random Forests, CATBoost
 
+Training Method: K-Fold Cross Validation
+
 Findings:
 
 Model      | Logistic Regression | Random Forests | CATBoost |
 
-Test AUC   |       .9206         |      .95413    |   .9575  |
+Test AUC via Cross Validation  |       .9224         |      .95413    |   .9575  |
 - Via Test Set AUC, CATBoost had the largest AUC on the test set, meaning it had the greatest predictive ability of our three models.
