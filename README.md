@@ -10,6 +10,6 @@ Models Used:
 Logistic Regression, Random Forests, CATBoost
 
 Findings:
-Model      | Logistic Regression | Random Forests | CATBoost |
+Model      | Logistic Regression | Random Forests | CATBoost |\n
 Test AUC   |       .9206         |      .95413    |   .9575  |
 - Via Test Set AUC, CATBoost had the largest AUC on the test set, meaning it had the greatest predictive ability of our three models.
